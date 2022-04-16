@@ -10,5 +10,3 @@ By sharing it on the web page, filters were created that disaggregate informatio
 
 Finally, one of the drawbacks of the page could be that we do not know which States are mentioned in the database, that is, it would be better to have a list with the countries and States where the information exists, as well as to improve the database so that it does not appear as an “attached” list on the web page.
 
-file:///C:/Users/tejed/Curso_tec/UFOs/index.html 
-
